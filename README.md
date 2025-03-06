@@ -1,6 +1,6 @@
 # test_zenodo_doi
 
-
+This temporary repository is used to test the Zenodo link with GitLab and GitHub.
 
 ## Getting started
 
