@@ -4,11 +4,14 @@ title: "testzenodo"
 authors:
   - family-names: Chen
     given-names: Qian
+    affiliation: Methods for Model-based Development in Computational Engineering, RWTH Aachen University
     orcid: "https://orcid.org/0000-0001-7103-9330"
   - family-names: Correa
     given-names: Alan
+    affiliation: Methods for Model-based Development in Computational Engineering, RWTH Aachen University
     orcid: "https://orcid.org/0009-0000-7947-7810"
 date-released: 2026-07-14
+abstract: "These are the scripts used to simulate a memory bus"
 identifiers:
   - description: This DOI refers to all version, test test This DOI refers to all version, test test This DOI refers to all version, test test This DOI refers to all version, test test This DOI refers to all version, test test This DOI refers to all version, test test This DOI refers to all version, test test 
     type: doi
